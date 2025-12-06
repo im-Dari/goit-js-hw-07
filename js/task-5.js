@@ -12,5 +12,5 @@ button.addEventListener('click', () => {
 
    document.body.style.backgroundColor = newColor;
    
-   colorSpan.textContent = newColor;
+   colorSpan.textContent = "";
 });

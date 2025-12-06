@@ -12,6 +12,7 @@ body {
   color: #212121;
   line-height: 1.5;
 }
+
 #categories {
 list-style: none;
 padding: 24px;
@@ -168,7 +169,7 @@ line-height: 24px;
   background: #3b5dcc;
 }
 
-/*-----Віджет-----*/
+/*-----Widget-----*/
 .widget {
   display: flex;
   flex-direction: column;
